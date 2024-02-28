@@ -1,7 +1,7 @@
 ﻿using NumberReplacementService.ReplacementImplementation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace NumberReplacementService.UnitTest
+namespace NumberReplacementService.Tests
 {
     [TestClass]
     public class ReplacementServiceTests
